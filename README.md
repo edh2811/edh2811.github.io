@@ -2,36 +2,36 @@
 
 ## Education
 - **MSc, Biomedical Engineering**  
-  TU Delft, Netherlands  
+  **TU Delft, Netherlands**
   2022–2025  
   - Additional coursework: Fundamentals of Artificial Intelligence, Deep Learning, C++ Object Oriented Programming  
 
 - **BSc, Human Movement Science**  
-  VU Amsterdam, Netherlands  
+  **VU Amsterdam, Netherlands**  
   2019–2022  
   - Graduation project: "Predicting vertical ground reaction forces from 3D accelerometry using Machine Learning"  
 
 - **VWO (Pre-University Education)**  
-  Pieter Groen College, Katwijk, Netherlands  
+  **Pieter Groen College, Katwijk, Netherlands**  
   2013–2019  
   - Profile: Nature & Technology / Nature & Health  
 
 ## Work Experience
 - **Associate Scientist**  
-  InSteps B.V., Amsterdam, Netherlands  
+  **InSteps B.V., Amsterdam, Netherlands** 
   March 2025–Present  
   - Designed and trained deep learning models using PyTorch for generation of high-quality synthetic medical data, enabling advanced data augmentation and privacy-preserving research applications  
   - Applied NumPy, Pandas and SQLite for efficient data preprocessing, transformation, and statistical analysis to support model development and evaluation  
   - Developed interactive Streamlit dashboards to visualize synthetic data distributions, and key statistical insights, enhancing transparency and usability for stakeholders  
-  - **Technologies:** Python, PyTorch, NumPy, Pandas, SQLite, Streamlit  
+  - **Technologies: Python, PyTorch, NumPy, Pandas, SQLite, Streamlit**  
 
 
 - **Research Intern (MSc Thesis Project)**  
-  AMC, Department of Biomedical Engineering & Physics, Amsterdam, Netherlands  
+  **AMC, Department of Biomedical Engineering & Physics, Amsterdam, Netherlands** 
   February 2024–February 2025  
   - Developed a latent diffusion model for clinically accurate synthetic data generation  
   - Conducted extensive research on generative deep learning applications in medical imaging  
-  - **Technologies:** PyTorch, TensorFlow, Python  
+  - **Technologies: PyTorch, TensorFlow, Python**  
 
 ## Technical Skills
 - **Programming Languages:** Python, MATLAB 
@@ -43,8 +43,8 @@
 ## Projects
 - **Interactive Dashboard development**
 Designed and built dynamic dashboards enabling seamless interaction with generative AI models and automated creation of synthetic datasets. Integrated real-time dataset analytics, statistical summaries, and sample visualizations to enhance data exploration.
-  - **Technologies:** Python, Pytorch, Numpy, Pandas, Streamlit, SQLite, Plotly
-  - **Key features:** Generative AI integration, interactive visualizations, dataset statistics, quality metrics, sample preview
+  - **Technologies: Python, Pytorch, Numpy, Pandas, Streamlit, SQLite, Plotly**
+  - **Key features: Generative AI integration, interactive visualizations, dataset statistics, quality metrics, sample preview**
 
 <div class="image-section">
   <img src="/assets/img/vessel_dashboard_1.png" alt="Interactive Streamlit dashboard displaying synthetic medical data visualizations and statistical summaries" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; display: block; margin: 1rem auto;">
@@ -59,13 +59,13 @@ Designed and built dynamic dashboards enabling seamless interaction with generat
 </style>
 - **Latent Diffusion Model for Medical Data**  
   A generative model for creating clinically accurate synthetic medical data.  
-  - **Technologies:** PyTorch, Python, NumPy, Pandas  
-  - **Key features:** Privacy-preserving data generation, clinical accuracy validation, advanced diffusion techniques, Generative AI 
+  - **Technologies: PyTorch, Python, NumPy, Pandas**  
+  - **Key features: Privacy-preserving data generation, clinical accuracy validation, advanced diffusion techniques, Generative AI** 
 
 - **Ground Reaction Force Prediction**  
   Machine learning model to predict vertical ground reaction forces from 3D accelerometry data.  
-  - **Technologies:** MATLAB  
-  - **Key features:** 3D motion analysis, predictive modeling, biomechanical validation  
+  - **Technologies: MATLAB**  
+  - **Key features: 3D motion analysis, predictive modeling, biomechanical validation**  
 
 ## Contact
 - Email: emiel.d.denhaan@gmail.com  
