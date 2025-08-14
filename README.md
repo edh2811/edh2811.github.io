@@ -22,7 +22,7 @@
   March 2025–Present  
   - Designed and trained deep learning models using PyTorch for generation of high-quality synthetic medical data, enabling advanced data augmentation and privacy-preserving research applications  
   - Applied NumPy, Pandas and SQLite for efficient data preprocessing, transformation, and statistical analysis to support model development and evaluation  
-  - Developed interactive Streamlit dashboards to visualize synthetic data distributions, and key statistical insights, enhancing transparency and usability for stakeholders  
+  - Developed interactive Streamlit dashboards to visualize synthetic data distributions and key statistical insights 
   - **Technologies: Python, PyTorch, NumPy, Pandas, SQLite, Streamlit**  
 
 
