@@ -25,31 +25,17 @@
   - Developed interactive Streamlit dashboards to visualize synthetic data distributions, model performance metrics, and key statistical insights, enhancing transparency and usability for stakeholders  
   - Technologies: Python, PyTorch, NumPy, Pandas, SQLite, Streamlit  
 
-
-
-<div class="image-gallery">
-  <div class="image-item">
-    <img src="/assets/img/vessel_dashboard_1.png" alt="Synthetic Blood Vessel Dashboard" style="max-width: 100%; height: auto;">
-  </div>
+<!-- Image Section -->
+<div class="image-section">
+  <img src="/assets/img/vessel_dashboard_1.png" alt="Synthetic Blood Vessel Dashboard" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px; display: block; margin: 1rem auto;">
 </div>
 
 <style>
-.image-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px;
-  margin-top: 20px;
-}
-.image-item {
+.image-section {
   text-align: center;
+  margin: 1rem 0;
 }
-.image-item img {
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-
-
+</style>
 
 - **Research Intern (MSc Thesis Project)**  
   AMC, Department of Biomedical Engineering & Physics, Amsterdam, Netherlands  
