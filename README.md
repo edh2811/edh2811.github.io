@@ -52,10 +52,6 @@
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
-.image-item p {
-  margin-top: 10px;
-  font-style: italic;
-}
 </style>
 
 - **Research Intern (MSc Thesis Project)**  
