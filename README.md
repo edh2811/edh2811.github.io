@@ -1,59 +1,62 @@
-# Welcome to My GitHub Profile
-
-Hi, I'm Emiel! This is my personal GitHub Pages README, showcasing my education, work experience, and projects. Feel free to explore my work and connect with me!
-
-## About Me
-I’m a [your profession or field, e.g., software developer, data scientist, etc.] passionate about [your interests, e.g., building innovative solutions, open-source contributions, etc.]. Below, you’ll find details about my background and projects.
+# Associate Scientist
 
 ## Education
-- **Degree, Major**  
-  [University Name], [City, Country]  
-  [Start Year]–[End Year or Expected Graduation Year]  
-  - Relevant coursework: [List relevant courses, e.g., Data Structures, Machine Learning, etc.]  
-  - Achievements: [e.g., Dean’s List, scholarships, etc.]
+- **MSc, Biomedical Engineering**  
+  TU Delft, Netherlands  
+  2022–2025  
+  - Additional coursework: Fundamentals of Artificial Intelligence, Deep Learning, C++ Object Oriented Programming  
 
-- **Additional Education/Certifications**  
-  [Program/Certification Name], [Institution/Platform], [Year]  
-  - Key skills learned: [e.g., Python, AWS, etc.]
+- **BSc, Human Movement Science**  
+  VU Amsterdam, Netherlands  
+  2019–2022  
+  - Graduation project: "Predicting vertical ground reaction forces from 3D accelerometry using Machine Learning"  
+
+- **VWO (Pre-University Education)**  
+  Pieter Groen College, Katwijk, Netherlands  
+  2013–2019  
+  - Profile: Nature & Technology / Nature & Health  
 
 ## Work Experience
-- **Job Title**  
-  [Company Name], [City, Country]  
-  [Start Month Year]–[End Month Year or Present]  
-  - [Responsibility or achievement, e.g., Developed a web application using React and Node.js, improving user engagement by 20%.]  
-  - [Another responsibility or achievement.]  
-  - Technologies used: [e.g., JavaScript, Docker, etc.]
+- **Associate Scientist**  
+  InSteps B.V., Amsterdam, Netherlands  
+  March 2025–Present  
+  - Designed and trained deep learning models using PyTorch for generation of high-quality synthetic medical data, enabling advanced data augmentation and privacy-preserving research applications  
+  - Applied NumPy, Pandas and SQLite for efficient data preprocessing, transformation, and statistical analysis to support model development and evaluation  
+  - Developed interactive Streamlit dashboards to visualize synthetic data distributions, model performance metrics, and key statistical insights, enhancing transparency and usability for stakeholders  
+  - Technologies used: PyTorch, NumPy, Pandas, SQLite, Streamlit  
 
-- **Job Title**  
-  [Company Name], [City, Country]  
-  [Start Month Year]–[End Month Year]  
-  - [Responsibility or achievement.]  
-  - [Another responsibility or achievement.]  
-  - Technologies used: [e.g., Python, SQL, etc.]
+- **Research Intern (MSc Thesis Project)**  
+  AMC, Department of Biomedical Engineering & Physics, Amsterdam, Netherlands  
+  February 2024–February 2025  
+  - Developed a latent diffusion model for clinically accurate synthetic data generation  
+  - Conducted extensive research on generative deep learning applications in medical imaging  
+  - Technologies used: PyTorch, TensorFlow, Python, MATLAB  
+
+## Technical Skills
+- **Programming Languages:** Python, MATLAB 
+- **AI & Machine Learning:** PyTorch, TensorFlow, scikit-learn, scipy  
+- **Data Tools:** NumPy, Pandas, SQL, Streamlit  
+- **Technical Expertise:** Deep Learning, Optimization, Modelling & Simulation, Data Visualization  
+- **Soft Skills:** Analytical Thinking, Problem Solving, Perseverance, Discipline  
 
 ## Projects
-- **[Project Name]**  
-  [Short description, e.g., A task management web app built with Django and PostgreSQL.]  
-  - Role: [e.g., Full-stack developer, designer, etc.]  
-  - Technologies: [e.g., HTML, CSS, JavaScript, etc.]  
-  - GitHub: [Link to repository]  
-  - [Optional] Live Demo: [Link to deployed project]  
-  - Key features: [e.g., User authentication, real-time updates, etc.]
+- **Latent Diffusion Model for Medical Data**  
+  A sophisticated generative model for creating clinically accurate synthetic medical data.  
+  - Role: Lead researcher and developer  
+  - Technologies: PyTorch, Python, NumPy, Pandas  
+  - Key features: Privacy-preserving data generation, clinical accuracy validation, advanced diffusion techniques  
 
-- **[Project Name]**  
-  [Short description, e.g., A machine learning model to predict stock prices using TensorFlow.]  
-  - Role: [e.g., Data scientist, developer, etc.]  
-  - Technologies: [e.g., Python, Pandas, TensorFlow, etc.]  
-  - GitHub: [Link to repository]  
-  - [Optional] Live Demo: [Link to deployed project]  
-  - Key features: [e.g., Data preprocessing, model evaluation, etc.]
+- **Ground Reaction Force Prediction**  
+  Machine learning model to predict vertical ground reaction forces from 3D accelerometry data.  
+  - Role: Primary developer and researcher  
+  - Technologies: Python, scikit-learn, MATLAB  
+  - Key features: 3D motion analysis, predictive modeling, biomechanical validation  
 
 ## Contact
-- Email: [Your email address]  
-- LinkedIn: [Your LinkedIn profile URL]  
-- GitHub: [Your GitHub profile URL]  
-- Portfolio: [Your portfolio website, if applicable]
+- Email: emiel.d.denhaan@gmail.com  
+- Location: Rijnsburg, Netherlands  
+- LinkedIn: [Connect with me on LinkedIn]  
+- GitHub: [Explore my repositories]  
 
 ---
-
 *Last updated: August 2025*
