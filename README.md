@@ -46,17 +46,6 @@ Designed and built dynamic dashboards enabling seamless interaction with generat
   - **Technologies: Python, Pytorch, Numpy, Pandas, Streamlit, SQLite, Plotly**
   - **Key features: Generative AI integration, interactive visualizations, dataset statistics, quality metrics, sample preview**
 
-<div class="image-section">
-  <img src="/assets/img/vessel_dashboard_1.png" alt="Interactive Streamlit dashboard displaying synthetic medical data visualizations and statistical summaries" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; display: block; margin: 1rem auto;">
-  <p style="text-align: center; font-style: italic;">Interactive Streamlit dashboard for exploring synthetic medical data, featuring real-time visualizations and statistical insights.</p>
-</div>
-
-<style>
-.image-section {
-  text-align: center;
-  margin: 1rem 0;
-}
-</style>
 - **Latent Diffusion Model for Medical Data**  
   A generative model for creating clinically accurate synthetic medical data.  
   - **Technologies: PyTorch, Python, NumPy, Pandas**  
