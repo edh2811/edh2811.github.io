@@ -70,9 +70,29 @@
 
 ## Projects
 - **Latent Diffusion Model for Medical Data**  
-  A sophisticated generative model for creating clinically accurate synthetic medical data.    
+  A generative model for creating clinically accurate synthetic medical data.  
   - Technologies: PyTorch, Python, NumPy, Pandas  
   - Key features: Privacy-preserving data generation, clinical accuracy validation, advanced diffusion techniques  
+  - **Demo**:  
+    <div class="video-item">
+      <video controls style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+        <source src="/assets/img/voxel_diffusion.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <p>Demo of Latent Diffusion Model generating synthetic medical data</p>
+    </div>
+
+<style>
+.video-item {
+  text-align: center;
+  margin-top: 20px;
+}
+.video-item p {
+  margin-top: 10px;
+  font-style: italic;
+  font-size: 0.9em;
+}
+</style>
 
 - **Ground Reaction Force Prediction**  
   Machine learning model to predict vertical ground reaction forces from 3D accelerometry data.  
