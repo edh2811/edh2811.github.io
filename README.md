@@ -54,7 +54,6 @@
 - Email: emiel.d.denhaan@gmail.com  
 - Location: Rijnsburg, Netherlands  
 - LinkedIn: [[Connect with me on LinkedIn]](https://nl.linkedin.com/in/emiel-den-haan-54345b207)  
-- GitHub: [[Explore my repositories]](https://github.com/edh2811)  
 
 ---
 *Last updated: August 2025*
