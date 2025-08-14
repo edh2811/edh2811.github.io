@@ -22,20 +22,9 @@
   March 2025–Present  
   - Designed and trained deep learning models using PyTorch for generation of high-quality synthetic medical data, enabling advanced data augmentation and privacy-preserving research applications  
   - Applied NumPy, Pandas and SQLite for efficient data preprocessing, transformation, and statistical analysis to support model development and evaluation  
-  - Developed interactive Streamlit dashboards to visualize synthetic data distributions, model performance metrics, and key statistical insights, enhancing transparency and usability for stakeholders  
+  - Developed interactive Streamlit dashboards to visualize synthetic data distributions, and key statistical insights, enhancing transparency and usability for stakeholders  
   - Technologies: Python, PyTorch, NumPy, Pandas, SQLite, Streamlit  
 
-<!-- Image Section -->
-<div class="image-section">
-  <img src="/assets/img/vessel_dashboard_1.png" alt="Synthetic Blood Vessel Dashboard" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px; display: block; margin: 1rem auto;">
-</div>
-
-<style>
-.image-section {
-  text-align: center;
-  margin: 1rem 0;
-}
-</style>
 
 - **Research Intern (MSc Thesis Project)**  
   AMC, Department of Biomedical Engineering & Physics, Amsterdam, Netherlands  
@@ -52,12 +41,26 @@
 - **Soft Skills:** Analytical Thinking, Problem Solving, Perseverance, Discipline  
 
 ## Projects
+- **Interactive Dashboard development**
+Designed and built dynamic dashboards enabling seamless interaction with generative AI models and automated creation of synthetic datasets. Integrated real-time dataset analytics, statistical summaries, and sample visualizations to enhance data exploration.
+  - Technologies: Python, Pytorch, Numpy, Pandas, Streamlit, SQLite, Plotly
+  - Key features: Generative AI integration, interactive visualizations, dataset statistics, quality metrics, sample preview
+<!-- Image Section -->
+<div class="image-section">
+  <img src="/assets/img/vessel_dashboard_1.png" alt="Synthetic Blood Vessel Dashboard" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px; display: block; margin: 1rem auto;">
+</div>
+
+<style>
+.image-section {
+  text-align: center;
+  margin: 1rem 0;
+}
+</style>
 - **Latent Diffusion Model for Medical Data**  
   A generative model for creating clinically accurate synthetic medical data.  
   - Technologies: PyTorch, Python, NumPy, Pandas  
-  - Key features: Privacy-preserving data generation, clinical accuracy validation, advanced diffusion techniques  
+  - Key features: Privacy-preserving data generation, clinical accuracy validation, advanced diffusion techniques, Generative AI 
   - **Demo**:  
-  <!-- Video Section -->
   <div class="video-section">
     <video controls style="max-width: 100%; border: 1px solid #ddd; border-radius: 5px; display: block; margin: 1rem auto;">
       <source src="/assets/img/voxel_diffusion.mp4" type="video/mp4">
