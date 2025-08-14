@@ -28,15 +28,12 @@
 <div class="image-gallery">
   <div class="image-item">
     <img src="/assets/img/vessel_dashboard_1.png" alt="Synthetic Blood Vessel Dashboard" style="max-width: 100%; height: auto;">
-    <p>Synthetic Data Distribution Dashboard</p>
   </div>
   <div class="image-item">
     <img src="/assets/img/vessel_dashboard_2.png" alt="Synthetic Blood Vessel Dashboard" style="max-width: 100%; height: auto;">
-    <p>Model Performance Metrics Dashboard</p>
   </div>
     <div class="image-item">
     <img src="/assets/img/vessel_dashboard_3.png" alt="Synthetic Blood Vessel Dashboard" style="max-width: 100%; height: auto;">
-    <p>Model Performance Metrics Dashboard</p>
   </div>
 </div>
 
