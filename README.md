@@ -45,9 +45,10 @@
 Designed and built dynamic dashboards enabling seamless interaction with generative AI models and automated creation of synthetic datasets. Integrated real-time dataset analytics, statistical summaries, and sample visualizations to enhance data exploration.
   - Technologies: Python, Pytorch, Numpy, Pandas, Streamlit, SQLite, Plotly
   - Key features: Generative AI integration, interactive visualizations, dataset statistics, quality metrics, sample preview
-<!-- Image Section -->
+  
 <div class="image-section">
-  <img src="/assets/img/vessel_dashboard_1.png" alt="Synthetic Blood Vessel Dashboard" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px; display: block; margin: 1rem auto;">
+  <img src="/assets/img/vessel_dashboard_1.png" alt="Interactive Streamlit dashboard displaying synthetic medical data visualizations and statistical summaries" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; display: block; margin: 1rem auto;">
+  <p style="text-align: center; font-style: italic;">Interactive Streamlit dashboard for exploring synthetic medical data, featuring real-time visualizations and statistical insights.</p>
 </div>
 
 <style>
